@@ -19,8 +19,8 @@ h1 {
     margin-bottom: 35px;
 }
 
-h3 {
-    margin-top: 45px;
+#lastSection {
+    margin-bottom: 45px;
 }
 
 h1, h2, h3 {
@@ -50,6 +50,20 @@ a {
     margin-top: 4px;
 }
 
+footer {
+    padding-bottom: 80px;
+}
+
+h3 {
+    margin-top: 15px;
+    margin-bottom: 6px;
+}
+
+#email {
+    margin-top: 5px;
+    margin-bottom: 9px;
+}
+
 @media only screen and (min-width: 768px) {
     #body-wrap {
         padding: 85px 100px;
@@ -66,6 +80,10 @@ a {
     #p1 {
         width: 60%;
     }
+    
+    h1 {
+        margin-bottom: 85px;
+    }
 }
 
 @media only screen and (min-width: 1440px) {
@@ -77,5 +95,9 @@ a {
     
     #martyPic {
         margin-bottom: 18px;
+    }
+    
+    h1 {
+        margin-bottom: 105px;
     }
 }
