@@ -2,7 +2,7 @@
     width: 140px;
     border-radius: 5px;
     float: right;
-    margin-left: 7px;
+    margin-left: 9px;
     margin-right: 1px;
 }
 
@@ -35,6 +35,7 @@ p, address, li {
     font-family: Georgia, serif;
     color: hsl(0, 0%, 27%);
     line-height: 1.6;
+    font-size: 18px;
 }
 
 a {
@@ -91,10 +92,6 @@ h3 {
         width: 55%;
         margin: 80px auto;
         border: solid rgba(0, 0, 0, .15) 2px;
-    }
-    
-    #martyPic {
-        margin-bottom: 18px;
     }
     
     h1 {
